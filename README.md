@@ -1,2 +1,2 @@
-# techdegree-project-porfolio
- My porfolio project
+# techdegree-project-portfolio
+ My portfolio project
